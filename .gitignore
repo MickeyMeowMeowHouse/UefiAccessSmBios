@@ -12,6 +12,9 @@
 *.map
 *.exp
 
+# Extra Code
+*.cod
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -35,6 +38,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.efi
 
 # Debug files
 *.dSYM/
